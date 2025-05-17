@@ -44,7 +44,7 @@ const Navbar = () => {
             {/* <li><a href="/howitworks">How it works</a></li> */}
             {/* <li><a href="/Features">Features</a></li> */}
             <li><a href="/Blog">Blog</a></li>
-            <li><a href="/FAQ">FAQ</a></li>
+            {/* <li><a href="/FAQ">FAQ</a></li> */}
           </ul>
 
           <div className="button-login">
